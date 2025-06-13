@@ -1,12 +1,12 @@
 
 
-# 🆔 ID Card Generator
+#  ID Card Generator
 
 This project is a simple and efficient **ID card generator** built with Python. It reads employee data from a CSV file, combines it with corresponding images, and automatically generates professional ID cards in PDF format.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 
@@ -22,7 +22,7 @@ id\_card\_generator/
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Reads employee details from a CSV file
 - Automatically matches each employee with their photo
@@ -32,7 +32,7 @@ id\_card\_generator/
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 - Python 3.x
 - Libraries:
@@ -49,7 +49,7 @@ pip install pillow reportlab
 
 ---
 
-## 🛠️ How to Use
+##  How to Use
 
 1. Place all employee photos inside the `photos/` directory.
 2. Update `employee.csv` with employee details:
@@ -70,13 +70,13 @@ python generate_ids.py
 
 ---
 
-## 🖼️ Sample Output
+##  Sample Output
 
 The script creates a single PDF file (`employee_ids.pdf`) containing all generated ID cards.
 
 ---
 
-## 📌 Customization
+##  Customization
 
 You can customize the ID card layout by editing the `generate_ids.py` script:
 
@@ -86,9 +86,6 @@ You can customize the ID card layout by editing the `generate_ids.py` script:
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
@@ -99,19 +96,11 @@ GitHub: [@Chandana9700](https://github.com/Chandana9700)
 
 ---
 
-## 🌟 Show Your Support
+##  Show Your Support
 
 If you find this project helpful, please ⭐️ the repo and share it with others!
 
 ````
 
----
 
-You can now create a `README.md` file in your project directory, paste this content, save it, and then run:
-
-```bash
-git add README.md
-git commit -m "Add project README"
-git push
-````
 
